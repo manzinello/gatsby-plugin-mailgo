@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# 💌 Mailgo Gatsby plugin
+# 💌 Mailgo Gatsby plugin (WIP)
 
 a new concept of `mailto` and `tel` links
 
