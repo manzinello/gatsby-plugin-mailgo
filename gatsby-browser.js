@@ -7,5 +7,6 @@
 import mailgo from "mailgo";
 
 exports.onInitialClientRender = () => {
+  // execute mailgo
   mailgo();
 };
