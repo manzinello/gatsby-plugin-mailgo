@@ -12,5 +12,8 @@
     "gatsby-plugin"
   ],
   "author": "Matteo Manzinello <matteo@manzinello.dev>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "mailgo": "^0.9.6"
+  }
 }
