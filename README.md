@@ -10,6 +10,18 @@ a new concept of `mailto` and `tel` links
 npm install --save gatsby-plugin-mailgo
 ```
 
+then add `gatsby-plugin-mailgo` in your `gatsby-config.js` file.
+
+```js
+module.exports = {
+  plugins: [
+      ...
+      `gatsby-plugin-mailgo`
+      ...
+    ],
+};
+```
+
 ## Usage
 
 By default all `mailto` and `tel` links in your Gatsby website are enabled with mailgo!
