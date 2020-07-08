@@ -1,12 +1,14 @@
 {
   "name": "gatsby-starter-mailgo",
   "version": "0.9.6",
+  "homepage": "https://mailgo.js.org",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manzinello/gatsby-plugin-mailgo.git"
+  },
   "description": "a new concept of mailto and tel links",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "echo \"No build script setup\""
-  },
+  "scripts": {},
   "keywords": [
     "gatsby",
     "gatsby-plugin"
