@@ -11,7 +11,16 @@
   "scripts": {},
   "keywords": [
     "gatsby",
-    "gatsby-plugin"
+    "gatsby-plugin",
+    "mailto",
+    "mail",
+    "tel",
+    "callto",
+    "gmail",
+    "outlook",
+    "telegram",
+    "whatsapp",
+    "skype"
   ],
   "author": "Matteo Manzinello <matteo@manzinello.dev>",
   "license": "MIT",
