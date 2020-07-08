@@ -4,7 +4,7 @@
  * See: https://www.gatsbyjs.org/docs/browser-apis/
  */
 
-import mailgo from "mailgo";
+const mailgo = require("mailgo");
 
 exports.onInitialClientRender = () => {
   // execute mailgo
