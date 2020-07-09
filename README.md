@@ -39,3 +39,7 @@ https://mailgo.js.org
 ### CodePen
 
 https://codepen.io/manzinello/pen/RmeQEr
+
+## On GatsbyJS
+
+https://www.gatsbyjs.org/packages/gatsby-plugin-mailgo/
