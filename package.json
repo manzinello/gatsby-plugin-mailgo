@@ -1,7 +1,7 @@
 {
   "name": "gatsby-plugin-mailgo",
-  "version": "0.9.6",
-  "homepage": "https://mailgo.js.org",
+  "version": "0.9.7",
+  "homepage": "https://mailgo.dev",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/manzinello/gatsby-plugin-mailgo.git"
@@ -25,6 +25,6 @@
   "author": "Matteo Manzinello <matteo@manzinello.dev>",
   "license": "MIT",
   "dependencies": {
-    "mailgo": "0.9.6"
+    "mailgo": "0.9.7"
   }
 }

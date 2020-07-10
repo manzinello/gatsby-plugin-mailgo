@@ -2,7 +2,7 @@
 
 a new concept of `mailto` and `tel` links
 
-<https://mailgo.js.org>
+<https://mailgo.dev>
 
 ## Install
 
@@ -28,11 +28,11 @@ module.exports = {
 
 By default all `mailto` and `tel` links in your Gatsby website are enabled with mailgo!
 
-See all the details of usage on https://mailgo.js.org/docs/usage.
+See all the details of usage on https://mailgo.dev/docs/usage.
 
 ## Demo
 
-https://mailgo.js.org
+https://mailgo.dev
 
 ![mailgo screencast](https://github.com/manzinello/mailgo/raw/master/assets/video/mailgo.gif)
 
