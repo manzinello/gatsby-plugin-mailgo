@@ -6,7 +6,10 @@
 
 const mailgo = require("mailgo");
 
-exports.onInitialClientRender = () => {
+exports.onInitialClientRender = (_, pluginOptions) => {
+  // mailgo config
+  let { mailgoConfig } = pluginOptions;
+
   // execute mailgo
-  mailgo();
+  mailgo(mailgoConfig);
 };
