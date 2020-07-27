@@ -25,6 +25,6 @@
   "author": "Matteo Manzinello <matteo@manzinello.dev>",
   "license": "MIT",
   "dependencies": {
-    "mailgo": "0.9.10"
+    "mailgo": "0.9.12"
   }
 }
