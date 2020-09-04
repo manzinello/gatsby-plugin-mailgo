@@ -1,6 +1,6 @@
 {
   "name": "gatsby-plugin-mailgo",
-  "version": "0.9.15",
+  "version": "0.9.16",
   "homepage": "https://mailgo.dev",
   "repository": {
     "type": "git",
@@ -20,7 +20,8 @@
     "outlook",
     "telegram",
     "whatsapp",
-    "skype"
+    "skype",
+    "yahoo"
   ],
   "author": "Matteo Manzinello <matteo@manzinello.dev>",
   "license": "MIT",
