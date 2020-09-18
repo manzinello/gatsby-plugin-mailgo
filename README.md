@@ -24,7 +24,7 @@ module.exports = {
 };
 ```
 
-From the Gatsby plugin `0.9.8` you can pass the mailgo [configuration](https://mailgo.dev/docs/configuration) with `mailgoConfig` option, here an example
+You can pass the mailgo [configuration](https://mailgo.dev/docs/configuration) with `mailgoConfig` option, here an example
 
 ```js
 module.exports = {
@@ -48,9 +48,11 @@ you can create your mailgoConfig using all the attributes specified in the [docs
 
 Be careful `initEvent` parameter, be sure that `window` has been initialized! We recommend not to specify it in `mailgoConfig` to avoid any type of error and be sure that **mailgo** will be started correctly.
 
+**Nothing more to have mailgo in your Gatsby!**
+
 ## Usage
 
-By default all `mailto` and `tel` links in your Gatsby website are enabled with mailgo!
+Just adding the plugin, by default all `mailto` and `tel` links in your Gatsby website are enabled with mailgo!
 
 See all the details of usage on https://mailgo.dev/docs/usage.
 
