@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-mailgo@0.10.1:
-  version "0.10.1"
-  resolved "https://registry.yarnpkg.com/mailgo/-/mailgo-0.10.1.tgz#d27f5221784113534e6edc5a982a2d0801c7eb60"
-  integrity sha512-yw8kASCENdp4a0ZPfu1dAj4OrJGJtQLpWrgh/be8tuHeH0V4rW9tlwSx04H+8TjWvqtPdGUaNTWnM/iAn9PdUA==
+mailgo@0.10.2:
+  version "0.10.2"
+  resolved "https://registry.yarnpkg.com/mailgo/-/mailgo-0.10.2.tgz#bc935401b9624839233383668502ff1978385804"
+  integrity sha512-Lvy3EpqF1SDOaBKS+v0LbQY3UulVVlJi/hx3DFH7EVjPffFvfOZMaGClzoGlXCBeuAVU7mfs+7sSv4bGY+7D1Q==
