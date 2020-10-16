@@ -4,12 +4,14 @@
  * See: https://www.gatsbyjs.org/docs/browser-apis/
  */
 
-const mailgo = require("mailgo");
+import mailgo from "mailgo";
 
-exports.onInitialClientRender = (_, pluginOptions) => {
+let onInitialClientRender = (_, pluginOptions) => {
   // mailgo config
   let { mailgoConfig } = pluginOptions;
 
   // execute mailgo
   mailgo(mailgoConfig);
 };
+
+export { onInitialClientRender };

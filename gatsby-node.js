@@ -12,4 +12,4 @@
  * See: https://www.gatsbyjs.org/docs/creating-a-local-plugin/#developing-a-local-plugin-that-is-outside-your-project
  */
 
-exports.onPreInit = () => console.log("Adding mailgo...");
+exports.onPreInit = () => console.log("Adding mailgo - https://mailgo.dev");
