@@ -58,7 +58,7 @@ See all the details of usage on https://mailgo.dev/docs/usage.
 
 ## Example
 
-Here a repository of a Gatsby (created from `gatsby-starter-default`) website with mailgo <https://github.com/manzinello/gatsby-mailgo-example> and here you can see the website deployed <https://gatsby-mailgo-example.netlify.app>.
+Here a repository of a Gatsby (created from `gatsby-starter-default`) website with mailgo <https://github.com/manzinello/gatsby-mailgo-example> and here you can see the website deployed <https://gatsby-mailgo-example.mailgo.dev>.
 
 This example uses `gatsby-plugin-mailgo` with a configuration object to enable the dark mode.
 
