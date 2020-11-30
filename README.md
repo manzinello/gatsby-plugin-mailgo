@@ -64,14 +64,14 @@ This example uses `gatsby-plugin-mailgo` with a configuration object to enable t
 
 ## Demo
 
-https://mailgo.dev
+<https://mailgo.dev>
 
 ![mailgo screencast](https://github.com/manzinello/mailgo/raw/master/assets/video/mailgo.gif)
 
 ### CodePen
 
-https://codepen.io/manzinello/pen/RmeQEr
+<https://codepen.io/manzinello/pen/RmeQEr>
 
 ## On GatsbyJS
 
-https://www.gatsbyjs.org/packages/gatsby-plugin-mailgo/
+<https://www.gatsbyjs.com/plugins/gatsby-plugin-mailgo/>
